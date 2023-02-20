@@ -1,0 +1,12 @@
+{
+  "name": "@transistorsoft/location-push-server-demo",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "A simple script to send an iOS Location Push Service request to a device.  This is a demo of how your server might send an iOS Location Push Service request",
+  "main": "index.js",
+  "author": "Transistor Software",
+  "license": "MIT",
+  "dependencies": {
+    "@parse/node-apn": "^5.1.3"
+  }
+}

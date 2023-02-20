@@ -1,0 +1,7 @@
+ {
+   token: {
+      key: "/path/to/your/apns-key.p8",
+      keyId: "<10-character KEY ID>",
+      teamId: "<Apple Developer Team ID>"
+   }
+}

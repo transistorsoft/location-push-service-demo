@@ -1,0 +1,9 @@
+ {
+   "token": {
+      "key": "/Users/chris/Dropbox/TransistorSoftware/Apple/keys/APNS_KEY_FP9JKAX2BT.p8",
+      "keyId": "FP9JKAX2BT",
+      "teamId": "32A636YFGZ"
+   },
+   "bundleIdentifier": "com.transistorsoft.locationPushServiceExtension"
+}
+

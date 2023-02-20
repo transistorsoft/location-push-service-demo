@@ -1,0 +1,13 @@
+node_modules
+
+##
+# Ignore firebase config
+#
+./firebase_options.dart
+./config/service_account_key.json
+
+##
+# Ignore server keys
+#
+./config/apns.json
+
