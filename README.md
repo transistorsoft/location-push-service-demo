@@ -16,7 +16,7 @@ Edit the file `config/apns.json.sample` and save as `config/apns.json`
 - The `token.key` comes from your *Apple Developer Console* `APNS_KEY.p8`, the one created with *[x] Apple Push Notifications service (APNs)*. enabled
 - The `token.keyId` can be obtained by selecting the `APNS KEY` above in *Apple Developer Console*. 
 
-![](https://capture.dropbox.com/MNtdrZsutjJwl1nn)
+![](https://capture.dropbox.com/MNtdrZsutjJwl1nn?dl=1)
 
 ```json
 {
