@@ -7,6 +7,8 @@ This is just a simple node script to send an APNS notification for the [iOS Loca
 ```
 yarn install
 
+```
+
 node send.js <apns_location_push_token>
 ```
 
