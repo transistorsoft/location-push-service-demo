@@ -9,5 +9,5 @@ node_modules
 ##
 # Ignore server keys
 #
-./config/apns.json
+config/apns.json
 
