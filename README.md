@@ -9,6 +9,27 @@ yarn install
 
 ```
 
+## Configuration
+
+Edit the file `config/apns.json.sample` and save as `config/apns.json`
+
+- The `token.key` comes from your *Apple Developer Console* `APNS_KEY.p8`, the one created with *[x] Apple Push Notifications service (APNs)*. enabled
+- The `token.keyId` can be obtained by selecting the `APNS KEY` above in *Apple Developer Console*. 
+
+![](https://capture.dropbox.com/MNtdrZsutjJwl1nn)
+
+```json
+{
+  "token": {
+    "key": "/path/to/your/apns-key.p8",
+    "keyId": "<10-character KEY ID>",
+    "teamId": "<Apple Developer Team ID>"
+  },
+  "bundleIdentifier": "com.transistorsoft.locationPushServiceExtension"
+}
+```
+
+
 node send.js <apns_location_push_token>
 ```
 
